@@ -34,17 +34,6 @@ Each day, I work on projects covering different aspects of web development. The 
 
 ### **🌍 Days 1-5: HTML & CSS – Mastering the Fundamentals**  
 Before we dive into frameworks and backend dev, we **perfect the basics** with these **20 projects**:  
-✅ **Portfolio Website**  
-✅ **Blog Template**  
-✅ **Landing Page** (for a fictional startup)  
-✅ **Restaurant Website**  
-✅ **Personal Resume Website**  
-✅ **E-commerce Product Page**  
-✅ **Dashboard UI (Admin Panel)**  
-✅ **Newsletter Signup Page**  
-✅ **Pricing Table**  
-✅ **Instagram Profile Clone**  
-✅ **Spotify UI Clone (Homepage)**  
 ✅ **Netflix Homepage Clone**  
 ✅ **Parallax Scrolling Website**  
 ✅ **Glassmorphism UI Design**  
@@ -52,8 +41,6 @@ Before we dive into frameworks and backend dev, we **perfect the basics** with t
 ✅ **CSS Grid & Flexbox Layout Challenges**  
 ✅ **Card Hover Effects & Animations**  
 ✅ **Full CSS-Only Animated Website**  
-✅ **Neumorphism Login Form**  
-✅ **Aesthetic 404 Page**  
 
 ---
 
